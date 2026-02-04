@@ -1,1 +1,38 @@
+● Atividade 01 (ATIV-01)
+○ Tipo: Diagnóstica.
+○ Tema: Conceitos básicos de machine learning.
+○ Conteúdo: Machine learning.
+○ Participantes: Individual.
+○ Avaliação do aluno.
+■ Objetivo: Avaliar o conhecimento do aluno sobre conceitos básicos de
+machine learning.
+■ Nota: Sem valor numérico (apenas um guia para o processo
+educacional).
+■ Critérios avaliados: Respostas com coerência, coesão e com
+exemplos
 
+
+1. Explique, com suas palavras, o que é machine learning?
+
+Machine learning é o treinamento de modelos através de (normalmente) grande base de dados com o intuitio de realizar alguma tarefa de forma automatizada
+
+2. Explique o conceito de conjunto de treinamento, conjunto de validação e
+conjunto de teste em machine learning.
+
+Conjunto de treinamneto é a divisao dos dados em determinadas porcentagens para que o modelos seja treinado corretamente, isso envolve avaliar como o modelos está "indo" durante o treinamento = conjunto de validação e conjunto de treino = quando o modelo está sendo treinado mesmo. Esses conjuntos sao divididos para que o modelo, na hora do teste, esteja vendo dados que nunca viu, evitando o overfitting.
+
+3. Explique como você lidaria com dados ausentes em um conjunto de dados
+de treinamento.
+
+Existem algumas formas de lidar com dados ausentes, em modelos básicos, pode-se excluir os dados faltantes (linhas ou colunas) e também calcular a média (dados quantitavos)
+
+4. O que é uma matriz de confusão e como ela é usada para avaliar o
+desempenho de um modelo preditivo?
+
+A matriz de confusão serve pra avaliar, tanto overfitting, quanto falsos positivos, verdadeiro negativo etc... isos porque através dela podemos ver quanto o modelo esta acertando, se os dados estao desbalanceados, se estao acertando mais da hipotese 0 ou da 1
+
+5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura,
+entre outras) você acha mais interessante aplicar algoritmos de machine
+learning?
+
+Acho interessante em todas as áreas que a IA possa fazer uma mudança significativa e benéfica. Eu particulamente gosto de trabalhar principalmente na área da saúde/educação
