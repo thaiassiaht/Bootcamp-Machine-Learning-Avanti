@@ -1,3 +1,6 @@
+# 2. Escreva uma função que receba uma lista de números e retorne outra lista
+#com os números primos presentes.
+
 import math
 
 def ePrimo(lista):
